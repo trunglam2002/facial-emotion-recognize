@@ -11,4 +11,3 @@ shape_predictor_68_face_landmarks.dat: chứa trọng số đã được huấn 
 transform.py: áp dụng các phép biến đổi để tăng cường dữ liệu
 link dữ liệu : https://universe.roboflow.com/emotion-0cwss/ck-ocroe/dataset/7
 yêu cầu : thư viện dlib 
-yêu cầu : thư viện dlib
