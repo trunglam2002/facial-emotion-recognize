@@ -9,5 +9,6 @@ predict.py: dự đoán với những ảnh chụp ngoài
 preprocessing.py: tiền xử lý dữ liệu 
 shape_predictor_68_face_landmarks.dat: chứa trọng số đã được huấn luyện dùng cho mô hình dlib
 transform.py: áp dụng các phép biến đổi để tăng cường dữ liệu
-link dữ liệu : https://universe.roboflow.com/emotion-0cwss/ck-ocroe/dataset/7yêu cầu : thư viện dlib 
+link dữ liệu : https://universe.roboflow.com/emotion-0cwss/ck-ocroe/dataset/7
+yêu cầu : thư viện dlib 
 yêu cầu : thư viện dlib
